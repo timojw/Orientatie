@@ -24,7 +24,6 @@ namespace Test2TimoEind
         PictureBox[] Point = new PictureBox[10];
         List<PScore> Scores = new List<PScore>();
 
-        int babs = 9;
         int points = 0;
         int lengte = 50;
         int Gravity = 20;
